@@ -9,8 +9,9 @@ const Home = () => {
         <p>
           Welcome to the New York City Government Blockchain 
         </p> 
+        <a class="waves-effect waves-light btn">Register</a>
        <Link to="Login" >
-         
+      
         <a class="waves-effect waves-light btn">Login</a>
        </Link>
 
