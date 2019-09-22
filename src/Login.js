@@ -58,7 +58,7 @@ class Login extends Component {
           <tr>
             <td>Proof of Address</td>
             <td><a class="waves-effect waves-light btn">Upload</a></td>
-            <td>  <label><input type="checkbox" /><span>Spectrum Utility Bill</span></label></td>
+            <td>  <label><input type="checkbox" /><span>Utility Bills</span></label></td>
           </tr>
           <tr>
             <td>Proof of Residency</td>
@@ -78,9 +78,19 @@ class Login extends Component {
         </tbody>
       </table>
        <br></br>     
-       <br></br>    
+       <br></br>  
+       <center> 
        <button class="btn waves-effect waves-light" type="submit" name="action">Submit
+       </button> &nbsp &nbsp
+       <button class="btn waves-effect waves-light" type="submit" name="action">Processing
+       </button> &nbsp &nbsp
+       <button class="btn waves-effect waves-light" type="submit" name="action">Approval
+       </button> &nbsp &nbsp
+       <button class="btn waves-effect waves-light" type="submit" name="action">Allocation
+       </button> &nbsp &nbsp    
+       <button class="btn waves-effect waves-light" type="submit" name="action">Moving
        </button>
+       </center> 
        <br></br>
        <br></br>     
  
