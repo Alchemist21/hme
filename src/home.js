@@ -4,14 +4,14 @@ import { Link } from 'react-router-dom';
 
 const Home = () => {
     return (
-        <header className="App-header">
+        <header className="App-header home__image" >
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Welcome to the New York City Government Blockchain 
         </p> 
        <Link to="Login" >
          
-        <a class="waves-effect waves-light btn">Register</a>
+        <a class="waves-effect waves-light btn">Login</a>
        </Link>
 
         

@@ -71,6 +71,11 @@ class Login extends Component {
             <td>  <label><input type="checkbox" /><span>Internal Revenue</span></label></td>
           </tr>
           <tr>
+            <td>Criminal Background Check</td>
+            <td><a class="waves-effect waves-light btn">Upload</a></td>
+            <td>  <label><input type="checkbox" /><span>NYPD</span></label></td>
+          </tr>
+          <tr>
             <td>Interview with NYCHA</td>
             <td><a class="waves-effect waves-light btn">Upload</a></td>
             <td>  <label><input type="checkbox" /><span>NYCHA</span></label></td>
