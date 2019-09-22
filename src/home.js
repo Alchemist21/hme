@@ -7,10 +7,11 @@ const Home = () => {
         <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome
-        </p>
+          Welcome to the New York City Government Blockchain 
+        </p> 
        <Link to="Login" >
-           Login
+         
+        <a class="waves-effect waves-light btn">Register</a>
        </Link>
 
         
